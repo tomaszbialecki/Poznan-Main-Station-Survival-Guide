@@ -56,3 +56,7 @@ Tomasz dostarcza znajomość dworca, szkice i materiały. Asystent przekłada je
 ## Pierwszy krok
 
 Opracować pierwszy szkic jako warstwę mapy, wskazać poziomy i połączenia między nimi, a następnie przygotować interaktywny prototyp przełączania poziomów.
+
+## Wersja 03 — Avenida (02.11.2026)
+
+Dodano oficjalne wektorowe rzuty parteru, +1 i +2 Avenidy, ze wspólnym przybliżonym dopasowaniem do obrysu centrum. Przełącznik obszaru Dworzec/Avenida, wyszukiwarka 164 nazw lokali i podświetlenie wyboru. Zachowano ikony wind i schodów z planu źródłowego. Numeracja pięter Avenidy pozostaje niezależna od poziomów dworca. Połączenia między budynkami i graf przejść w galerii wymagają weryfikacji; nie wdrożono tras wewnątrz Avenidy.

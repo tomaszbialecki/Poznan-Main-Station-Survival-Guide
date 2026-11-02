@@ -1,5 +1,19 @@
 # Geometria mapy, wersja 02
 
+## Aktualizacja: Avenida, wersja 03 — 02.11.2026
+
+Dodano oficjalne rzuty wszystkich trzech poziomów udostępnianych w interaktywnym planie centrum: parter (level1013), +1 (level1016), +2 (level1019).
+
+- https://www.avenidapoznan.com/fileadmin/user_upload/CENTERS/AVP/center/mapplic/AVP_EG.svg
+- https://www.avenidapoznan.com/fileadmin/user_upload/CENTERS/AVP/center/mapplic/AVP_1OG.svg
+- https://www.avenidapoznan.com/fileadmin/user_upload/CENTERS/AVP/center/mapplic/AVP_2OG.svg
+
+Źródło: https://www.avenidapoznan.com/o-centrum/plan-centrum/ . Autorstwo i prawa planów: Avenida / ECE. Pliki SVG pozostają odrębnym źródłem od danych OSM i nie są objęte ODbL. Lokalne kopie w `dist/avenida/` są pozbawione ewentualnych aktywnych odwołań; kolory zmieniane są przy renderowaniu. Zachowano kontury lokali, przejścia i ikony usług, wind oraz schodów. Nazwy czynnych lokali odczytano z listy renderowanej przez oficjalny plan; brak nazwy nie jest interpretowany jako potwierdzenie pustostanu.
+
+Wspólne dopasowanie trzech pięter: SVG source (1000 × 600), macierz afiniczna `matrix(.4057 .08985 -.08654 .4282 177.64 214.50)`. Dopasowanie obrysu centrum do OSM jest przybliżone, nie pomierzone geodezyjnie. Numeracja pięter Avenidy jest oddzielna od numeracji poziomów dworca; aplikacja nie zakłada równoważności ich wysokości. Nie dodano niezweryfikowanych połączeń do grafu tras. Widoczne rzuty nie stanowią jeszcze nawigacji wewnątrz galerii.
+
+Poniższa sekcja opisuje stan warstwy dworca w wersji 02.
+
 Pobrano 1 listopada 2026 r. z OpenStreetMap API: bbox 16.908,52.397,16.919,52.408. Dane © OpenStreetMap contributors, ODbL: https://www.openstreetmap.org/copyright . `dist/station-data.js` zawiera wyodrębnioną geometrię z identyfikatorami obiektów; stanowi pochodną bazy OSM dostępną na tej samej licencji. Data pobrania nie jest datą pomiaru w terenie.
 
 11 obrysów peronów, 7 obrysów budynków, 11 odcinków tuneli, 25 odcinków schodów między poziomami −1/0 i 0/+1 oraz kontekst torów i Mostu Dworcowego. Numery peronów z nazw `peron N`; pole `ref` zawiera numery torów i nie jest numerem peronu.
