@@ -1,3 +1,9 @@
+# Aktualny stan: wersja 04
+
+Korekta północnego dopasowania: `matrix(.4532 .0992 -.08654 .4282 174.32 213.85)`. Obejmuje także bryłę dworca autobusowego. Wspólne poziomy i stała kamera zastępują zakładki z wersji 03. Terminal i numeracja 1–19 bazują na oficjalnej mapie ZKZL, z pozycjami stanowisk odtworzonymi schematycznie. Otwarta przestrzeń na +1 oparta jest na korekcie użytkownika; gastronomia na +2 — na rzucie Avenidy. Rysunki parkingów to obrysy stref, nie pełne rzuty ani potwierdzenie przypisania liter do kondygnacji. Szczegóły, plany i aktualne braki: PLAN-RESEARCH.md.
+
+Poniżej zachowano historię pochodzenia danych; opisy wersji 02/03 nie zastępują korekty wersji 04.
+
 # Geometria mapy, wersja 02
 
 ## Aktualizacja: Avenida, wersja 03 — 02.11.2026

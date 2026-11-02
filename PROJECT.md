@@ -60,3 +60,7 @@ Opracować pierwszy szkic jako warstwę mapy, wskazać poziomy i połączenia mi
 ## Wersja 03 — Avenida (02.11.2026)
 
 Dodano oficjalne wektorowe rzuty parteru, +1 i +2 Avenidy, ze wspólnym przybliżonym dopasowaniem do obrysu centrum. Przełącznik obszaru Dworzec/Avenida, wyszukiwarka 164 nazw lokali i podświetlenie wyboru. Zachowano ikony wind i schodów z planu źródłowego. Numeracja pięter Avenidy pozostaje niezależna od poziomów dworca. Połączenia między budynkami i graf przejść w galerii wymagają weryfikacji; nie wdrożono tras wewnątrz Avenidy.
+
+## Wersja 04 — wspólne poziomy i pełniejszy obrys (02.11.2026)
+
+Usunięto zakładki Dworzec/Avenida. Jedna mapa i niezmieniana kamera dla −1, 0, +1, +2. Skorygowano dopasowanie północnej części do bryły terminala autobusowego: parter — terminal, +1 — otwarta przestrzeń według użytkownika, +2 — gastronomia. Dodano schemat 19 stanowisk z mapy zarządcy oraz obrysy stref parkingowych z oznaczeniem niepełnych danych. Rzuty wnętrz parkingów i pełnej hali wciąż nie są dostępne. PLAN-RESEARCH.md opisuje odnalezione materiały oficjalne i ograniczenia.

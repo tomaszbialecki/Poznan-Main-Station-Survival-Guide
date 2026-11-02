@@ -10,7 +10,9 @@ Interaktywna mapa Poznania Głównego inspirowana mapami z gier. Projektujemy dl
 - Warstwy tunelu (−1), peronów (0) i hali (+1), we wspólnym układzie współrzędnych.
 - Schody z biegami po obu stronach tunelu.
 - Oficjalne rzuty Avenidy: parter, +1 i +2, z nazwami lokali, wyszukiwarką i podświetleniem wyboru.
-- Oddzielne przełączanie obszaru dworca i centrum; przybliżone dopasowanie rzutów we wspólnym układzie mapy.
+- Jeden przełącznik wspólnych poziomów −1, 0, +1 i +2; stała kamera i wspólne współrzędne.
+- Północna część: terminal autobusowy na 0, otwarta przestrzeń na +1 i gastronomia na +2.
+- Schemat numeracji 19 stanowisk autobusowych na podstawie mapy ZKZL oraz oznaczone obrysy parkingów A–B i C–E.
 - Przesuwanie, powiększanie, skala i wybór peronu.
 - Demonstracyjne wyznaczanie tras między poziomami.
 - Odczyt GPS z deklarowaną dokładnością pomiaru.
@@ -38,6 +40,7 @@ Otwórz `http://127.0.0.1:8765`. Na telefonie geolokalizacja wymaga HTTPS. Podgl
 | `dist/avenida.js` | Warstwy centrum, wyszukiwanie i wybór lokali |
 | `dist/avenida/` | Trzy oficjalne plany SVG i nazwy lokali |
 | `dist/station-data.js` | Wyodrębniona geometria OSM z identyfikatorami obiektów |
+| `PLAN-RESEARCH.md` | Oficjalne plany kompleksu, korekta dopasowania i brakujące rzuty |
 | `MAP-SOURCES.md` | Pochodzenie geometrii, projekcja i ograniczenia |
 | `PROJECT.md` | Założenia produktu i najnowsze decyzje |
 | `.openai/hosting.json` | Konfiguracja istniejącego hostingu Sites |
@@ -55,7 +58,7 @@ Wersję 02 sprawdzono również w przeglądarce oraz pod kątem połączenia 33 
 ## Kolejne kroki
 
 1. Zweryfikować przejścia i połączenia z halą oraz peronami 4, 6, 7 i 9.
-2. Zweryfikować połączenia pięter Avenidy z dworcem i zbudować graf przejść wewnątrz centrum.
+2. Pozyskać pełne rzuty parkingów i hali, zweryfikować połączenia pięter i zbudować graf przejść wewnątrz centrum.
 3. Powiązać lokalizację telefonu z mapą i przetestować dokładność na dworcu.
 4. Dopracować nawigację podczas ruchu i ręczną korektę pozycji.
 
