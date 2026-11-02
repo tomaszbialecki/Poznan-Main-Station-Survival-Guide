@@ -1,3 +1,11 @@
+# Wersja 05 — wnętrze dworca i godziny
+
+Geometria +1/+2 z planu PKP podlinkowanego na oficjalnej stronie dworca: https://www.pkp.pl/images/Dworce/Mapy/09.22/Pozna_A3_10.pdf . Stary rzut z rozklad-pkp.pl nie jest źródłem bieżącej warstwy. Nowy plan zawiera obecną numerację peronów i wykaz lokali; data ostatniej aktualizacji nie jest podana. Wyodrębniono tylko geometrię, bez kopiowania numeracji peronów do grafu tras. Dopasowanie wnętrza do obrysu OSM pozostaje przybliżone.
+
+Nazwy i powiązanie lokali z rzutem według planu PKP. Godziny mają oddzielne źródła w dist/store-info.json. Godziny galerii nie są traktowane jako godziny każdego lokalu; niedziele bez danych nie oznaczają zamknięcia. Harmonogramy są statyczne, sprawdzone 02.11.2026. Nie uwzględniają wszystkich wyjątków świątecznych. X-kom: rozbieżność identyfikatora w profilu i planie jest opisana w karcie.
+
+Plan źródłowy i pochodne rzuty PKP pozostają odrębnymi materiałami od OSM i nie są objęte ODbL.
+
 # Aktualny stan: wersja 04
 
 Korekta północnego dopasowania: `matrix(.4532 .0992 -.08654 .4282 174.32 213.85)`. Obejmuje także bryłę dworca autobusowego. Wspólne poziomy i stała kamera zastępują zakładki z wersji 03. Terminal i numeracja 1–19 bazują na oficjalnej mapie ZKZL, z pozycjami stanowisk odtworzonymi schematycznie. Otwarta przestrzeń na +1 oparta jest na korekcie użytkownika; gastronomia na +2 — na rzucie Avenidy. Rysunki parkingów to obrysy stref, nie pełne rzuty ani potwierdzenie przypisania liter do kondygnacji. Szczegóły, plany i aktualne braki: PLAN-RESEARCH.md.

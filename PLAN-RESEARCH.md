@@ -1,3 +1,9 @@
+# Aktualizacja — znaleziony plan wnętrz PKP
+
+02.11.2026 znaleziono odnośnik do rzutu hali +1 i antresoli +2 w kodzie oficjalnej strony informacyjnej PKP: https://www.pkp.pl/images/Dworce/Mapy/09.22/Pozna_A3_10.pdf . Ten materiał ma obecną numerację peronów i nowszych najemców (Biedronka, Żabka, 1Minute). Nie ma podanej daty ostatniej aktualizacji, a nazwa katalogu nie jest dowodem daty pomiaru. Materiał wykorzystano w wersji 05; kompletna dokumentacja wykonawcza wszystkich parkingów nadal nie jest dostępna.
+
+Poniżej zachowano wcześniejszy stan poszukiwań.
+
 # Plany całego kompleksu — ustalenia 02.11.2026
 
 ## Odnalezione źródła oficjalne

@@ -64,3 +64,7 @@ Dodano oficjalne wektorowe rzuty parteru, +1 i +2 Avenidy, ze wspólnym przybli�
 ## Wersja 04 — wspólne poziomy i pełniejszy obrys (02.11.2026)
 
 Usunięto zakładki Dworzec/Avenida. Jedna mapa i niezmieniana kamera dla −1, 0, +1, +2. Skorygowano dopasowanie północnej części do bryły terminala autobusowego: parter — terminal, +1 — otwarta przestrzeń według użytkownika, +2 — gastronomia. Dodano schemat 19 stanowisk z mapy zarządcy oraz obrysy stref parkingowych z oznaczeniem niepełnych danych. Rzuty wnętrz parkingów i pełnej hali wciąż nie są dostępne. PLAN-RESEARCH.md opisuje odnalezione materiały oficjalne i ograniczenia.
+
+## Wersja 05 — hala +1, antresola +2 i informacje o lokalach (02.11.2026)
+
+Znaleziono plan podlinkowany na bieżącej stronie PKP: /images/Dworce/Mapy/09.22/Pozna_A3_10.pdf. Zastępuje starszy plan z rozklad-pkp.pl: ma obecną numerację peronów, Biedronkę, 1Minute i Żabkę. Z niego wyodrębniono geometrię +1/+2 i przypisania lokali. Data ostatniej aktualizacji nie jest podana. Dodano karty godzin i źródła danych. Potwierdzono Biedronkę, obie kawarnie Costa oraz pon.–sob. dla x-kom; nieznane dni i lokale pozostają niepotwierdzone. Usunięto podpisy gastronomii i otwartej przestrzeni, zgodnie z decyzją użytkownika.

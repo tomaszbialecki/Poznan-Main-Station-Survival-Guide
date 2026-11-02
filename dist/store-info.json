@@ -1,0 +1,224 @@
+{
+  "checkedAt": "2026-11-02",
+  "timezone": "Europe/Warsaw",
+  "centre": {
+    "source": "https://www.avenidapoznan.com/o-centrum/godziny-otwarcia/",
+    "weekly": [
+      null,
+      "09:00–21:00",
+      "09:00–21:00",
+      "09:00–21:00",
+      "09:00–21:00",
+      "09:00–21:00",
+      "09:00–21:00"
+    ],
+    "note": "Godziny centrum, niepotwierdzone indywidualnie dla lokalu. Niedziele i święta wymagają sprawdzenia."
+  },
+  "stores": {
+    "pkp-05": {
+      "name": "Costa Coffee · dworzec",
+      "level": 1,
+      "area": "Dworzec kolejowy",
+      "source": "https://www.costacoffee.pl/map?latitude=52.402971&longitude=16.912215&open=1",
+      "weekly": [
+        "04:30–22:00",
+        "04:30–22:00",
+        "04:30–22:00",
+        "04:30–22:00",
+        "04:30–22:00",
+        "04:30–22:00",
+        "04:30–22:00"
+      ],
+      "hoursStatus": "verified"
+    },
+    "p1016-128": {
+      "name": "Costa Coffee · Avenida",
+      "level": 1,
+      "area": "Avenida",
+      "source": "https://www.costacoffee.pl/map",
+      "weekly": [
+        null,
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00"
+      ],
+      "hoursStatus": "partial"
+    },
+    "p1019-18": {
+      "name": "x-kom",
+      "level": 2,
+      "area": "Avenida",
+      "source": "https://www.x-kom.pl/kontakt/poznan",
+      "weekly": [
+        null,
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00",
+        "09:00–21:00"
+      ],
+      "hoursStatus": "partial",
+      "locationNote": "Plan centrum i aktualny profil x-kom wskazują różne identyfikatory lokalu. Dokładne położenie wymaga potwierdzenia."
+    },
+    "pkp-11": {
+      "name": "Biedronka · dworzec",
+      "level": 2,
+      "area": "Dworzec kolejowy",
+      "source": "https://www.biedronka.pl/pl/sklepy/shop,id,2817",
+      "weekly": [
+        "06:00–22:00",
+        "06:00–23:00",
+        "06:00–23:00",
+        "06:00–23:00",
+        "06:00–23:00",
+        "06:00–23:00",
+        "06:00–23:00"
+      ],
+      "hoursStatus": "verified",
+      "note": "Sieć opisuje godziny jako orientacyjne; aktualne informacje są dostępne w sklepie."
+    }
+  },
+  "stationPlan": {
+    "source": "https://www.pkp.pl/images/Dworce/Mapy/09.22/Pozna_A3_10.pdf",
+    "status": "published_by_operator",
+    "note": "Plan podlinkowany na aktualnej stronie PKP o dworcu. Zawiera obecną numerację peronów; data ostatniej aktualizacji nie jest podana. Dopasowanie geograficzne wnętrz jest przybliżone.",
+    "units": [
+      {
+        "id": "pkp-01",
+        "name": "Teletorium · dworzec",
+        "level": 1,
+        "rect": [
+          309.14,
+          443.74,
+          25.44,
+          20.74
+        ]
+      },
+      {
+        "id": "pkp-02",
+        "name": "Kantor · dworzec",
+        "level": 1,
+        "rect": [
+          334.52,
+          443.74,
+          25.44,
+          20.74
+        ]
+      },
+      {
+        "id": "pkp-03",
+        "name": "Starbucks · dworzec",
+        "level": 1,
+        "rect": [
+          445.07,
+          222.63,
+          51.36,
+          133.21
+        ]
+      },
+      {
+        "id": "pkp-04",
+        "name": "1Minute Smacznego · dworzec",
+        "level": 1,
+        "rect": [
+          497.79,
+          271.33,
+          42.11,
+          84.21
+        ]
+      },
+      {
+        "id": "pkp-05",
+        "name": "Costa Coffee · dworzec",
+        "level": 1,
+        "rect": [
+          572.22,
+          273.68,
+          62.8,
+          81.86
+        ]
+      },
+      {
+        "id": "pkp-06",
+        "name": "Rossmann · dworzec",
+        "level": 1,
+        "rect": [
+          572.22,
+          177.91,
+          62.61,
+          119.33
+        ]
+      },
+      {
+        "id": "pkp-07",
+        "name": "Żabka Café · dworzec",
+        "level": 1,
+        "rect": [
+          471.97,
+          438,
+          51.19,
+          34.94
+        ]
+      },
+      {
+        "id": "pkp-09",
+        "name": "Paczkomaty InPost · dworzec",
+        "level": 1,
+        "rect": [
+          215.82,
+          175.56,
+          10.51,
+          48.38
+        ]
+      },
+      {
+        "id": "pkp-10",
+        "name": "Breakspot · antresola",
+        "level": 2,
+        "rect": [
+          353.91,
+          629.37,
+          68.36,
+          117.59
+        ]
+      },
+      {
+        "id": "pkp-11",
+        "name": "Biedronka · dworzec",
+        "level": 2,
+        "rect": [
+          423.63,
+          570.86,
+          211.39,
+          176.1
+        ]
+      },
+      {
+        "id": "pkp-w1",
+        "name": "Żabka · dworzec",
+        "level": 1,
+        "rect": [
+          588.58,
+          383.45,
+          27.22,
+          23.39
+        ]
+      },
+      {
+        "id": "pkp-w2",
+        "name": "Dobre Precle · dworzec",
+        "level": 1,
+        "rect": [
+          362.77,
+          443.74,
+          11.15,
+          20.74
+        ]
+      }
+    ]
+  }
+}
