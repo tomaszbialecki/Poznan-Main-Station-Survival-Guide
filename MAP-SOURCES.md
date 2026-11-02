@@ -43,3 +43,6 @@ Porównanie wizualne:
 Schody odwzorowują polilinie OSM, w tym trzywierzchołkowe biegi z obu stron tunelu przy peronach zachodnich oraz osobne biegi przy peronach wschodnich. Połączenia poziomów rysowane w jednej projekcji pozostają w tym samym miejscu po zmianie warstwy.
 
 Ograniczenia: graf nawigacyjny nadal demonstracyjny. Dojście z hali i połączenia podłużne do peronów 4, 6, 7 i 9 wymagają dopracowania. Obrys Avenidy nie jest planem jej wnętrz. Nie zweryfikowano otwarcia każdego przejścia, wind ani czasowych zamknięć. Widok satelitarny nie potwierdza infrastruktury podziemnej. Geometria OSM nie jest pomiarem geodezyjnym.
+
+## Avenida unit labels — v06
+164 named units are linked by official SVG IDs; 34 further units are marked as opening soon by the official centre directory (checked 2026-11-02). Labels appear progressively with zoom and avoid collisions; selected named units retain their label. Upcoming units remain selectable with their status. Unknown units are not assigned invented tenants. The approximate geographic registration and existing floor masks still apply.
